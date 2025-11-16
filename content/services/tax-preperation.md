@@ -6,7 +6,7 @@ featured: true
 weight: 6
 ---
 
-We provide customers with the service of spices export from india.
+We provide customers with the service of vegetables fruits spices and processed and packaged foods export from India.
 <!--more-->
 
 ![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
