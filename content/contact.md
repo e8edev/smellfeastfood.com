@@ -27,6 +27,7 @@ Maharashtra 🇮🇳
 
 | Day       | Opening Hours     |
 | --------- | ----------------- |
+| Monday    | 08:30am - 5:00pm  |
 | Tuesday   | 08:30am - 5:00pm  |
 | Wednesday | 08:30am - 5:00pm  |
 | Thursday  | 08:30am - 5:00pm  |

@@ -3,7 +3,7 @@ title: "Sameer Pervaz"
 date: 2018-11-19T10:47:58+10:00
 draft: false
 image: "images/team/sameer-pervaz.png"
-jobtitle: "Director"
+jobtitle: "Director Operations"
 linkedinurl: "https://www.linkedin.com/example2"
 promoted: true
 weight: 3
@@ -19,4 +19,4 @@ Today, through Smell Feast Food Processing & Packaging Pvt. Ltd., we are committ
 
 **Shaikh Sameer Pervaz**  
 *B.Sc (Microbiology), MBA (Marketing)*  
-Director
+Director Operations
